@@ -1,0 +1,8 @@
+{
+    "configuration": "PSRAM=disabled,CPUFreq=240,UploadSpeed=921600,DebugLevel=none",
+    "output": "build",
+    "board": "Heltec-esp32:esp32:wifi_kit_32",
+    "port": "COM3",
+    "programmer": "esptool",
+    "sketch": "esp32_hydropoinics.ino"
+}
